@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.user-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  height: 100px;
+  width: 100px;
+}
+
+.user-heading {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.role {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+}
